@@ -1,0 +1,32 @@
+/.idea/
+/private/
+/storage/
+/litemall.iml
+.idea
+
+*.ipr
+*.iws
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.log
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+**/transaction-logs/
+!/.mvn/wrapper/maven-wrapper.jar
+/data/
+*.db
+*~
+.DS_Store
+/static/
+/upload/
+
+**/pom.xml.versionsBackup
+**/target/
+**/out/
+**/log/
+*.class
+
